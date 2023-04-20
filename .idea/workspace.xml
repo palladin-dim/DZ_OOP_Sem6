@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc30d228-fbd0-4989-a2cf-e4f399ad40a4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork/HomeWork.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork/src/Persister.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork/src/ReportUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork/src/Reportable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork/src/Saveable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork/src/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotesProject/NotesProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotesProject/notes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotesProject/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotesProject/src/controllers/NoteController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotesProject/src/model/Fields.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotesProject/src/model/FileOperation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotesProject/src/model/FileOperationJSON.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotesProject/src/model/Note.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotesProject/src/model/NotesMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotesProject/src/model/NotesMapperJSON.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotesProject/src/model/Repository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotesProject/src/model/RepositoryJSON.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotesProject/src/views/Commands.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotesProject/src/views/ViewNote.java" beforeDir="false" />
-    </list>
+    <list default="true" id="dc30d228-fbd0-4989-a2cf-e4f399ad40a4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
